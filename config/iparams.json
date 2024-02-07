@@ -1,0 +1,13 @@
+{
+    "surveysparrow_api_key": {
+      "display_name": "SurveySparrow API Key",
+      "description": "Please enter your SurveySparrow API key. You can find it in Settings -> Apps & Integrations -> Custom Apps.",
+      "data-bind": "prB3MfbIp-c7Op9nxkJbnsGScWsq20-LlnyDNG5-b86p654UTIsK-0fRVwN-qROOSiYTG0OqP1x3GCmKBvhcq8SA",
+      "required": true,
+      "secure": true,
+      "type": "api_key",
+      "type_attributes": {
+        "product": "surveysparrow"
+      }
+    }
+  }
